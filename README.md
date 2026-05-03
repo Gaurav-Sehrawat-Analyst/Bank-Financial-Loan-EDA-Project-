@@ -9,7 +9,7 @@ Excel tools such as Pivot Tables, Charts, and basic statistical functions were u
 Clean and prepare raw data for analysis.
 Use Pivot Tables to summarize and categorize large datasets.
 Create visual charts and dashboards for better understanding of key metrics.
-Perform basic descriptive statistical analysis (mean, median, mode, etc.).
+Perform basic descriptive statistical analysis.
 Identify patterns, trends, and correlations in the data.
 🧮 Tools & Techniques
 Microsoft Excel
@@ -18,4 +18,4 @@ Conditional Formatting
 Lookup Functions (VLOOKUP, HLOOKUP, INDEX-MATCH)
 Data Cleaning (Remove Duplicates, Text to Columns, Filters)
 Chart Types: Column, Line, Pie, and Combo Charts
-Descriptive Statistics (AVERAGE, STDEV, COUNTIF, etc.)
+Descriptive Statistics (AVERAGE etc.)
